@@ -25,5 +25,3 @@ Algumas linguagens de programação que estudo
   
 </div>
 
-github-contribution-grid-snake.gif
-github-contribution-grid-snake.svg
