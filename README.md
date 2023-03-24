@@ -8,6 +8,7 @@ Algumas linguagens de programação que estudo
   <img align="center" alt="Bernardo-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Bernardo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bernardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bernardo-Delphi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/delphi/delphi-original.svg">
 
 </div>
 <br>
