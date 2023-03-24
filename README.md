@@ -26,3 +26,4 @@ Algumas linguagens de programação que estudo
   
 </div>
 
+![snake gif](https://github.com/Cervel1n/Cervel1n/blob/output/github-contribution-grid-snake.svg)
