@@ -24,5 +24,6 @@ Algumas linguagens de programação que estudo
   <a href="https://www.linkedin.com/in/bernardo-santos-96a70b268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/126777966/227551782-05a27267-5e66-4425-b4d5-397ff6b4da2a.svg)
 
+github-contribution-grid-snake.gif
+github-contribution-grid-snake.svg
