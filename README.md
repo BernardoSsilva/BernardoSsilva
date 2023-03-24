@@ -1,6 +1,6 @@
 ### Ola! Eu sou Bernardo Santos da Silva, sou um estudante de informática do terceiro ano do ensino médio
 
-Algumas linguagens de programação que estudo
+Algumas Tecnologias que estudo
 <div style="display: inline_block"><br>
   <img align="center" alt="Bernardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bernardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -8,7 +8,7 @@ Algumas linguagens de programação que estudo
   <img align="center" alt="Bernardo-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Bernardo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Bernardo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Bernardo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/MySQL/MySQL-original.svg">
+<img align="center" alt="Bernardo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 
 </div>
