@@ -27,4 +27,4 @@
   
 </div>
 
-<img height="160em" src="https://github.com/BernardoSsilva/BernardoSsilva/blob/output/github-contribution-grid-snake.svg">
+![snake gif](https://github.com/BernardoSsilva/BernardoSsilva/blob/output/github-contribution-grid-snake.svg)
