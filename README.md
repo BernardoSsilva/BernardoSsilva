@@ -27,7 +27,7 @@
 </div>
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BernardoSsilva&theme=carmin)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BernardoSsilva&theme=matrix)
 
 <br>
 <br>
