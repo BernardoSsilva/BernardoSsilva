@@ -26,4 +26,10 @@
   
 </div>
 
+
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BernardoSsilva&theme=gotham)
+
+<br>
+<br>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BernardoSsilva}/count.svg" /></p> 
