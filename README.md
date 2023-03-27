@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola!+Me+Chamo+Bernardo;Tenho+17+anos;Sou+de+Criciúma;Estudo+programação++no+Cedup;Estou+para+me+formar+TECNICO+EM+INFORMATICA;Seja+bem-vindo+a+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola!+Me+Chamo+Bernardo;Tenho+17+anos;Sou+de+Criciúma;Estudo+programação++no+Cedup;Irei+me+formar+TECNICO+EM+INFORMATICA;Seja+bem-vindo+a+meu+perfil)](https://git.io/typing-svg)
 <h3>Algumas Tecnologias que estudo</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Bernardo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
