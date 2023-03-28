@@ -26,6 +26,8 @@
   
 </div>
 
+###Visitas totais
+
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BernardoSsilva&theme=gotham)
 
