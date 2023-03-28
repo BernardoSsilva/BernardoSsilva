@@ -26,11 +26,12 @@
   
 </div>
 
-###Visitas totais
 
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BernardoSsilva&theme=gotham)
 
+<br>
+    <h1 color="00E39F" align="center" font-size="2rem">Visitas totais</h1>
 <br>
 <br>
 
