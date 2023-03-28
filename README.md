@@ -31,8 +31,8 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BernardoSsilva&theme=gotham)
 
 <br>
-    <h1 color="00E39F" align="center" font-size="2rem">Visitas totais</h1>
-<br>
+    <p color="#00E39F" align="center" font-size="2rem"><strong>Visitas totais</strong></p>
+
 <br>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BernardoSsilva}/count.svg" /></p> 
