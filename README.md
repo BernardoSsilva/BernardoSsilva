@@ -28,7 +28,7 @@
 
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BernardoSsilva&theme=gotham)
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BernardoSsilva&theme=react)
 
 <br>
     <h2  align="center"><strong>Visitas totais</strong></h2>
