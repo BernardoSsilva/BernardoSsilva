@@ -30,7 +30,7 @@
 
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BernardoSsilva&theme=react)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BernardoSsilva&theme=rogue)](https://github.com/BernardoSsilva/github-readme-activity-graph)
 
 <br>
     <h2  align="center"><strong>Visitas totais</strong></h2>
