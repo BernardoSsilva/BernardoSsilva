@@ -33,6 +33,9 @@
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BernardoSsilva&theme=rogue)](https://github.com/BernardoSsilva/github-readme-activity-graph) -->
 <p align="center"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=aura_dark"/></p>
+<br>
+<br>
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BernardoSsilva&theme=aura_dark"/>)</p>
 
 <br>
     <h2  align="center"><strong>Visitas totais</strong></h2>
