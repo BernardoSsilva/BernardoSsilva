@@ -36,8 +36,10 @@
 <br>
 <br>
 
-<p><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BernardoSsilva&theme=aura_dark"/></p><p><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernardoSsilva&theme=aura_dark"/></p>
+<div align="center>
 
+  <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BernardoSsilva&theme=aura_dark"/></p>  <p><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernardoSsilva&theme=aura_dark"/></p>
+</div>
 <br>
     <h2  align="center"><strong>Visitas totais</strong></h2>
 <br>
