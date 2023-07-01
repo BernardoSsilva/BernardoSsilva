@@ -38,7 +38,7 @@
 
 <div align="center"> 
   <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BernardoSsilva&theme=aura_dark"/>
-  <img width="50%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernardoSsilva&theme=aura_dark"/>
+  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernardoSsilva&theme=aura_dark"/>
 </div>
 <br>
     <h2  align="center"><strong>Visitas totais</strong></h2>
