@@ -28,6 +28,7 @@
   <a href="https://www.instagram.com/print_berenarando/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bernardo.ssilva0808@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bernardo-santos-96a70b268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br>
   <img  width="33%" href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24471%26project%3D%26in=0">
   
 </div>
