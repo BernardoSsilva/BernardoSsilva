@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E39F&size=55&center=true&vCenter=true&width=1000&lines=Ola!+Me+Chamo+Bernardo;Sou+de+Criciúma;Formado+tecnico+em+informatica;Seja+bem-vindo+a+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00E39F&size=55&center=true&vCenter=true&width=1000&lines=Ola!+Me+Chamo+Bernardo;Sou+de+Criciúma;Graduando+em+engenharia+da+computação;Seja+bem-vindo+a+meu+perfil)](https://git.io/typing-svg)
 
 
 <div align="center">  
