@@ -16,7 +16,7 @@
   <img align="center" alt="Bernardo-TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Bernardo-Nestjs" height="50" width="60" src="https://github.com/nimasfl/nestjs-icons/blob/master/file_type_nestjs.svg">
   <img align="center" alt="Bernardo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Bernardo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg">
+   <img align="center" alt="Bernardo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   
 </div>
 <br>
