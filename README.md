@@ -16,8 +16,8 @@
   <img align="center" alt="Bernardo-Spring" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Bernardo-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  
-  <img align="center" alt="Bernardo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="Bernardo-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Bernardo-C#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+   <img align="center" alt="Bernardo-dotnet" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   
 </div>
 <br>
@@ -34,7 +34,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BernardoSsilva&theme=rogue)](https://github.com/BernardoSsilva/github-readme-activity-graph)
+![](./profile-3d-contrib/profile-night-green.svg)
 <p align="center"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=aura_dark"/></p>
 <br>
 <br>
