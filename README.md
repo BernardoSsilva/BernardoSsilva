@@ -1,7 +1,6 @@
 
 <div>
   <h1>Olá 👋 eu me chamo Bernardo</h1>
-  <p>Sou desenvolvedor full-stack</p>
 </div>
 
 <div align="center">  
