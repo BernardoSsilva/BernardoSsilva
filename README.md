@@ -39,10 +39,6 @@
 <p align="center"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=aura_dark"/></p>
 <br>
 <br>
-  <img src="https://github.com/BernardoSsilva/BernardoSsilva/blob/main/assets/github-contribution-grid-snake.svg"/>
-<!-- <div align="center" >
-     <img src="https://github-profile-trophy.vercel.app/?username=BernardoSsilva&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
-  </div> 
 
 
 
