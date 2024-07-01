@@ -4,22 +4,27 @@
 </div>
 
 <div align="center">  
-  <img width="55%"  src="https://github-readme-stats.vercel.app/api?username=BernardoSsilva&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Bernardo Silva Stats" /> 
-  <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSsilva&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="55%"  src="https://github-readme-stats.vercel.app/api?username=BernardoSsilva&theme=omni&show=reviews,prs_merged_percentage" alt="Bernardo Silva Stats" /> 
+  <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSsilva&theme=omni" />
+  
 </div>
 
-<h3 align="center">Algumas Tecnologias que estudo</h3>
+<h3 align="center">Tecnologias que estudo</h3>
 <div style="display: inline_block" align="center" ><br>
-  <img align="center" alt="Bernardo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!-- <img align="center" alt="Bernardo-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bernardo-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Bernardo-TypeScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Bernardo-Nestjs" height="50" width="60" src="https://github.com/nimasfl/nestjs-icons/blob/master/file_type_nestjs.svg">
   <img align="center" alt="Bernardo-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Bernardo-Spring" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Bernardo-Java" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- 
   <img align="center" alt="Bernardo-C#" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="Bernardo-dotnet" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
+ -->
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,spring,javascript,ts,cs,dotnet,react,nodejs,nestjs,py,vscode,visualstudio,mysql,postgres," />
+  </a>
+
   
 </div>
 <br>
