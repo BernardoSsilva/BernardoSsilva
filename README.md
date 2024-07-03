@@ -1,13 +1,14 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1d0a54&height=120&section=header"/>
 <div>
   <h1>Olá 👋 meu nome é Bernardo, sou desenvolvedor Full stack</h1>
 </div>
 
 <div align="center">  
-  <img width="55%"  src="https://github-readme-stats.vercel.app/api?username=BernardoSsilva&theme=omni&show=reviews,prs_merged_percentage" alt="Bernardo Silva Stats" /> 
-  <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSsilva&theme=omni" />
+  <img width="55%"  src="https://github-readme-stats.vercel.app/api?username=BernardoSsilva&theme=holi&show=reviews,prs_merged_percentage" alt="Bernardo Silva Stats" /> 
+  <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSsilva&theme=holi" />
   
 </div>
+
 
 <h3 align="center">Tecnologias que estudo</h3>
 <div style="display: inline_block" align="center" ><br>
@@ -41,7 +42,7 @@
 
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-<p align="center"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=aura_dark"/></p>
+<p align="center"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=monokai"/></p>
 <hr>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BernardoSsilva/BernardoSsilva/output/github-contribution-grid-snake-dark.svg">
