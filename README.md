@@ -49,10 +49,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BernardoSsilva/BernardoSsilva/output/github-contribution-grid-snake.svg">
 </picture>
 
-![snake gif](https://github.com/BernardoSsilva/BernardoSsilva/blob/output/github-contribution-grid-snake.svg)
-
-
-
 
 
 
