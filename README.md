@@ -20,6 +20,7 @@
   
 </div>
 <br>
+
 ![](./profile-3d-contrib/profile-night-green.svg)
 <p align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=tokyonight"/></p>
 <hr>
