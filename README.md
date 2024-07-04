@@ -1,6 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B88&height=120&section=header"/>
 
-# Olá 👋 meu nome é Bernardo, sou desenvolvedor Full stack
+<div align="center">
+  
+  # Olá 👋 meu nome é Bernardo, sou desenvolvedor Full stack 
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B88&height=60&section=footer"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B88&height=60&section=header"/>
