@@ -11,7 +11,6 @@
 <div align="center">  
   <img width="55%"  src="https://github-readme-stats.vercel.app/api?username=BernardoSsilva&theme=holi&show=reviews,prs_merged_percentage" alt="Bernardo Silva Stats" /> 
   <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSsilva&theme=holi" />
-  
 </div>
 
 
@@ -26,7 +25,11 @@
 <br>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-<p align="center"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=tokyonight"/></p>
+
+<div align="center" display="flex">
+  <img width="59%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=tokyonight"/>
+  <img  width="40%" src="https://streak-stats.demolab.com?user=BernardoSsilva&theme=tokyonight&hide_border=true&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
+</div>
 <hr>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BernardoSsilva/BernardoSsilva/output/github-contribution-grid-snake-dark.svg">
