@@ -27,7 +27,7 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="center" display="flex">
-  <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=tokyonight"/>
+  <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=holi"/>
   <img  width="42%" src="https://streak-stats.demolab.com?user=BernardoSsilva&theme=holi-theme&hide_border=true&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
 </div>
 <hr>
