@@ -9,8 +9,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B88&height=60&section=footer"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B88&height=60&section=header"/>
 <div align="center">  
-  <img width="55%"  src="https://github-readme-stats.vercel.app/api?username=BernardoSsilva&theme=holi&show=reviews,prs_merged_percentage" alt="Bernardo Silva Stats" /> 
-  <img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSsilva&theme=holi" />
+  <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=BernardoSsilva&theme=holi" alt="Bernardo Silva Stats" /> 
+  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSsilva&theme=holi&layout=donut" />
 </div>
 
 
@@ -27,8 +27,8 @@
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="center" display="flex">
-  <img width="59%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=tokyonight"/>
-  <img  width="40%" src="https://streak-stats.demolab.com?user=BernardoSsilva&theme=tokyonight&hide_border=true&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
+  <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=tokyonight"/>
+  <img  width="41%" src="https://streak-stats.demolab.com?user=BernardoSsilva&theme=tokyonight&hide_border=true&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" alt="GitHub Streak" />
 </div>
 <hr>
 <picture align="center">
