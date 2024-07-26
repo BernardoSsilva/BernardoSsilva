@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B88&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=120&section=header"/>
 
 <div align="center">
   
@@ -6,8 +6,8 @@
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B88&height=60&section=footer"/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B88&height=60&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=60&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=60&section=header"/>
 <div align="center">  
   <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=BernardoSsilva&theme=holi" alt="Bernardo Silva Stats" /> 
   <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSsilva&theme=holi&layout=donut" />
@@ -49,6 +49,6 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B88&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=120&section=footer"/>
 
 
