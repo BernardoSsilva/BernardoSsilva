@@ -24,7 +24,7 @@
 </div>
 <br>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-3d-contrib/profile-night-view.svg)
 
 <div align="center" display="flex">
   <img width="57%" src="http://github-profile-summary-cards-1s69m4xpu.vercel.app/api/cards/profile-details?username=BernardoSsilva&theme=holi"/>
