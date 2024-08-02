@@ -10,7 +10,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=60&section=header"/>
 <div align="center">  
   <img width="57%"  src="https://github-readme-stats.vercel.app/api?username=BernardoSsilva&theme=holi" alt="Bernardo Silva Stats" /> 
-  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSsilva&theme=holi&layout=donut" />
+  <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSsilva&theme=holi&layout=donut&hide=css,html" />
 </div>
 
 
