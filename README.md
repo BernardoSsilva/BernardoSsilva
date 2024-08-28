@@ -17,7 +17,7 @@
 <h3 align="center">Tecnologias que estudo</h3>
 <div style="display: inline_block" align="center" ><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,spring,javascript,ts,cs,dotnet,react,nodejs,nestjs,py,vscode,visualstudio,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,javascript,ts,cs,dotnet,react,nodejs,nestjs,py,vscode,visualstudio,prisma,postgresql" />
   </a>
 
   
