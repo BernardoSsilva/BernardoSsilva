@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  # Olá 👋 meu nome é Bernardo, sou desenvolvedor Full stack 
+  # Olá 👋 meu nome é Bernardo, sou desenvolvedor Back-End 
 
 </div>
 
