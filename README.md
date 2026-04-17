@@ -43,6 +43,7 @@ Atualmente venho evoluindo fortemente em **boas práticas de engenharia de softw
 * CRUDs complexos com regras de negócio reais
 * Integração com bancos relacionais (PostgreSQL / MySQL)
 * Estruturação de aplicações com padrões como DDD e camadas
+* Fluxo de deploy CI/CD
 
 ---
 
