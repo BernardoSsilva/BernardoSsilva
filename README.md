@@ -98,6 +98,10 @@ Alguns dos meus projetos principais:
 
 ---
 
+## 📈 Grafico de contribuíções
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoSsilva&theme=github-compact&hide_border=true" alt="Activity Graph"/>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=120&section=footer"/>
 
 
