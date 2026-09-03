@@ -64,9 +64,9 @@ Alguns dos meus projetos principais:
 
 <div align="center">
 
- <img width="38%" src="https://github-readme-stats.vercel.app/api?username=BernardoSsilva&theme=holi" /> 
+  <img width="38%" src="https://github-stats-extended.vercel.app/api?username=BernardoSsilva&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=tokyonight" /> 
 
-<img width="42%" src="https://streak-stats.demolab.com?user=BernardoSsilva&theme=holi-theme&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
+<img width="42%" src="https://streak-stats.demolab.com?user=BernardoSsilva&theme=tokyonight&border_radius=6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=daily" />
 
 </div>
 
@@ -98,9 +98,9 @@ Alguns dos meus projetos principais:
 
 ---
 
-## 📈 Grafico de contribuíções
+<!--- ## 📈 Grafico de contribuíções
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BernardoSsilva&theme=github-compact&hide_border=true" alt="Activity Graph"/>
-
+--->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=24446c&height=120&section=footer"/>
 
