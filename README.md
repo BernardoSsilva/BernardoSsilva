@@ -29,8 +29,7 @@ Atualmente venho evoluindo fortemente em **boas práticas de engenharia de softw
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,javascript,ts,cs,dotnet,react,nodejs,nestjs,postgresql" />
-
+<img src="https://skillicons.dev/icons?i=git,javascript,ts,cs,dotnet,react,nextjs,nodejs,nestjs,prisma,postgresql" />
 </div>
 
 ---
@@ -44,7 +43,8 @@ Atualmente venho evoluindo fortemente em **boas práticas de engenharia de softw
 * Integração com bancos relacionais (PostgreSQL / MySQL)
 * Estruturação de aplicações com padrões como DDD e camadas
 * Fluxo de deploy CI/CD
-
+* Aplicações SaaS multiempresa com planos, limites de uso e cobrança recorrente (Stripe)
+* Integração com IA generativa: transcrição de áudio, análise de documentos e assistente
 ---
 
 ## 📦 Projetos em destaque
@@ -55,6 +55,7 @@ Alguns dos meus projetos principais:
 * 💰 **GestYou** → Sistema financeiro com arquitetura DDD e testes
 * 🏠 **Imobiliária System** → Sistema completo com autenticação e gestão de imóveis
 * 🌍 **Hackathon Project** → Solução para gerenciamento de recursos em desastres climáticos
+* ⚖️ **[LexNote](https://lex-note-core.vercel.app/)** 🔒 → SaaS para escritórios de advocacia: grava atendimentos, transcreve e gera dossiês jurídicos com IA, com clientes, casos, pendências e agenda, equipes com departamentos e permissões, e planos com assinatura via Stripe *(código privado)*
 
 > Todos os projetos envolvem aplicações reais de backend estruturado e sistemas completos full stack.
 
