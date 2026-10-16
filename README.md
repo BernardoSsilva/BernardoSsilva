@@ -56,6 +56,7 @@ Alguns dos meus projetos principais:
 * 🏠 **Imobiliária System** → Sistema completo com autenticação e gestão de imóveis
 * 🌍 **Hackathon Project** → Solução para gerenciamento de recursos em desastres climáticos
 * ⚖️ **[LexNote](https://lex-note-core.vercel.app/)** 🔒 → SaaS para escritórios de advocacia: grava atendimentos, transcreve e gera dossiês jurídicos com IA, com clientes, casos, pendências e agenda, equipes com departamentos e permissões, e planos com assinatura via Stripe *(código privado)*
+* **[Portifólio](https://portifolio-neon-two-88.vercel.app/)**
 
 > Todos os projetos envolvem aplicações reais de backend estruturado e sistemas completos full stack.
 
